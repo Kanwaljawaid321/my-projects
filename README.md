@@ -1,2 +1,2 @@
-# my-projects
+# Assignments
 html and css  projects
